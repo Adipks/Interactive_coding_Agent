@@ -4,6 +4,32 @@
 
 The Interactive Coding Agent is a comprehensive learning support system that provides an AI-powered coding tutor. It combines the power of Google's Agent Development Kit (ADK) with a modern web interface to create an interactive learning environment for programming education.
 
+## Screenshots
+
+### 1. Home Screen
+![Home Screen](images/img1.png)
+The home screen provides an overview of the Interactive Coding Agent application, showcasing the main interface and navigation options for users to get started with their coding journey.
+
+### 2. Programming Languages Selection
+![Programming Languages Selection](images/img2.png)
+This screen displays a comprehensive list of all programming languages available for learning, including C, C++, Rust, and other languages with plans for expansion to Python, Java, and JavaScript.
+
+### 3. Topic Selection by Difficulty
+![Topic Selection by Difficulty](images/img3.png)
+Once a programming language is selected, users can choose from various topics ranging from beginner to advanced levels, providing a structured learning path tailored to their skill level.
+
+### 4. AI-Powered Tutorial Generation
+![AI-Powered Tutorial Generation](images/img4.png)
+This demonstrates the agent's ability to explain a particular topic in detail and generate sample tutorial code to help users get started. The AI provides comprehensive explanations and practical examples.
+
+### 5. Real-Time Code Execution
+![Real-Time Code Execution](images/img5.png)
+The code execution environment shows how user code is processed and executed in real-time. The terminal output is displayed immediately, allowing users to see results and debug their programs effectively.
+
+### 6. Progress Tracking System
+![Progress Tracking System](images/img6.png)
+The progress bar system ensures structured learning by only allowing users to move to the next step after properly completing the current one. This gamified approach encourages thorough understanding before progression.
+
 ## Key Features
 
 ### 🤖 AI-Powered Tutoring
