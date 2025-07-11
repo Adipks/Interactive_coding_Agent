@@ -9,9 +9,31 @@ Welcome to the Interactive Coding Agent project! This project provides a compreh
 - **frontend**: A React app providing an interactive learning interface.
 - **backend**: Node.js server handling session management and communication between components.
 
-## To Run the Project
+## Quick Start
 
-The following steps can be automated with the provided `run_project.sh` script:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Adipks/Interactive_coding_Agent.git
+   cd Interactive_coding_Agent
+   ```
+
+2. **Run the setup script**:
+   ```bash
+   ./setup.sh
+   ```
+
+3. **Configure your Google API key**:
+   Create or update `code-agent/my_agent/.env` with your Google API key:
+   ```
+   GOOGLE_API_KEY=your_api_key_here
+   ```
+
+4. **Start the project**:
+   ```bash
+   ./run_project.sh
+   ```
+
+## Manual Setup
 
 ### Prerequisites
 
@@ -20,6 +42,7 @@ Ensure you have the following installed:
 - Python 3
 - Node.js 14+
 - Docker
+- Docker Compose
 
 ### Start the Servers
 
